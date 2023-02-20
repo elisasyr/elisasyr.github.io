@@ -1,7 +1,7 @@
 # elisasyr.github.io
-
-# Assignment 3
-# This code takes a user input, gives user a choive and convert a user's input into either a base 2 number or a base 16 number. 
+This is an assignment №3 Мои изменения
+# Assignment 3 
+# This code takes a user input, gives user a choice and convert a user's input into either a base 2 number or a base 16 number. 
 
 value = input("Please enter a number from 0 to 10:")
 v1 = int(value)
