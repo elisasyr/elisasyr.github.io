@@ -1,5 +1,5 @@
 # elisasyr.github.io
-This is an assignment №3 Мои изменения
+This is an assignment №3 
 # Assignment 3 
 # This code takes a user input, gives user a choice and convert a user's input into either a base 2 number or a base 16 number. 
 
